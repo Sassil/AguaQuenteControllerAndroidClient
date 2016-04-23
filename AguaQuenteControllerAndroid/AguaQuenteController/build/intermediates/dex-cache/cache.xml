@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/miguel/code/tiago/-guaQuenteControllerAndroid/AguaQuenteController/app/libs/jackson-core-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9ba85dcbe273e1e3265c8d599569a71f1b81b75b">
+        <dex dex="/Users/miguel/code/tiago/-guaQuenteControllerAndroid/AguaQuenteController/app/build/intermediates/pre-dexed/debug/jackson-core-2.0.2-7e7d8e2f0ddabfbd2a10cc7579eb37153c5ed965.jar" />
+    </item>
+    <item
+        jar="/Users/miguel/code/tiago/-guaQuenteControllerAndroid/AguaQuenteController/app/libs/jackson-databind-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="396dee63d12d9ebc29b65bbc8cb4881525fa1da2">
+        <dex dex="/Users/miguel/code/tiago/-guaQuenteControllerAndroid/AguaQuenteController/app/build/intermediates/pre-dexed/debug/jackson-databind-2.0.2-ea3e823383b6a68e49e30ec8d6efebd96fbf5f05.jar" />
+    </item>
+    <item
+        jar="/Users/miguel/code/tiago/-guaQuenteControllerAndroid/AguaQuenteController/app/libs/jackson-annotations-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="211ffb697056079e6693316b2c9bb91e348ae9c4">
+        <dex dex="/Users/miguel/code/tiago/-guaQuenteControllerAndroid/AguaQuenteController/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.0.2-33678f01d7bba1ff28326600915cde4cd6ba0dda.jar" />
+    </item>
+
+</items>
